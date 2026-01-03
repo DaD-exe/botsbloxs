@@ -11,10 +11,9 @@
 
 </div>
 ------------------------------------------
+
 ## How to start
 > Install [Botsblox.exe](https://github.com/DaD-exe/botsbloxs/releases/download/botsblox/Botsblox.exe).
-
-## Commands
 
 - ### Friends
     - added `[target, usernames]`
