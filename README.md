@@ -10,6 +10,7 @@
 ![Python version](https://img.shields.io/badge/py%20version-3.12.6-blue?style=for-the-badge&logo=python&logoColor=d9e0ee)
 
 </div>
+------------------------------------------
 ## How to start
 > Install [Botsblox.exe](https://github.com/DaD-exe/botsbloxs/releases/download/botsblox/Botsblox.exe).
 
