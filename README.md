@@ -1,6 +1,6 @@
 <h3 align="center">
     <br />
-    Alt-farm detector
+    bot-accounts using.
 </h3>
 
 <div align="center">
