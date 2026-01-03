@@ -10,7 +10,9 @@
 ![Python version](https://img.shields.io/badge/py%20version-3.12.6-blue?style=for-the-badge&logo=python&logoColor=d9e0ee)
 
 </div>
----
+## How to start
+> Install [Botsblox.exe](https://github.com/DaD-exe/botsbloxs/releases/download/botsblox/Botsblox.exe).
+
 ## Commands
 
 - ### Friends
@@ -52,6 +54,3 @@ This bot follows the next channels structure:
         > Sends all the gameIds the players are in
     - gameids-with-alts
         > Sends all the gameIds where at least 1 alt is in
-
-## How to start
-> Install [Botsblox.exe](https://github.com/DaD-exe/botsbloxs/releases/download/botsblox/Botsblox.exe).
