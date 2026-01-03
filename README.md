@@ -11,13 +11,6 @@
 
 </div>
 ---
-
-
-## What is alt-farm?
-
-Alt-farm is when a group of players queue with their alts to get
-RP faster and with no effort, this is not allowed in Roblox BedWars
-
 ## Commands
 
 - ### Friends
@@ -46,10 +39,6 @@ RP faster and with no effort, this is not allowed in Roblox BedWars
     - player `[username]`
     - stop `[username]`
 
-> [!NOTE]
-> `snipe joinsoff` command only works with the GAME_ID from 
-> your [.env file](.env.example)
-
 ## Channels
 
 This bot follows the next channels structure:
@@ -63,15 +52,6 @@ This bot follows the next channels structure:
         > Sends all the gameIds the players are in
     - gameids-with-alts
         > Sends all the gameIds where at least 1 alt is in
-
-- TRACKING
-    > In this category you will find all the tracking channels you made using `/track player`
-
-> [!NOTE]
-> The bot will only send a notification if the player is playing the specified game in your [.env file](.env.example) or
-> if you want it to send for every game you can use
-> `/reports mute other_game:False` 
-
 
 ## How to start
 > Install [Botsblox.exe](https://github.com/DaD-exe/botsbloxs/releases/download/botsblox/Botsblox.exe).
