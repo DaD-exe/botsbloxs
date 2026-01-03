@@ -6,7 +6,7 @@ The best roblox playing users for bot users.
 
 download Botsblox.exe and Start it.
 
--> ? why it works? its update. it will support in 24 hours.
+-> ? why it doesn't work? its update. it will support in 24 hours.
 
 <div align="center">
   <img src="./icon.ico" width="600">
